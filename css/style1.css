@@ -10,3 +10,11 @@ img.intro {
     height: 500px;
 
 }
+.theme {
+  border: 10px solid #666;
+  background-color: #CCC;
+}
+.normal {
+  border: none;
+  background-color: white;
+}
